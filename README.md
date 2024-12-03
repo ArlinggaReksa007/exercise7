@@ -46,26 +46,7 @@ Latihan ini terdiri dari tiga tugas yang masing-masing bertanggung jawab untuk m
 
 ---
 
-## **Langkah Eksperimen**
-### **Exercise 7.1**: Verifikasi Waktu Eksekusi Individual  
-- Jalankan satu tugas pada satu waktu.
-- Periksa apakah perilaku run-time sesuai dengan nilai waktu yang diharapkan.
-### **Demonstrasi 7.1**:
-![Exercise7 1](https://github.com/user-attachments/assets/b75127d0-2f8f-41b6-9a92-323e8729ac68)
-
-
-### **Exercise 7.2**: Pengujian Tanpa Kontrol Akses  
-- Jalankan semua tugas secara bersamaan.
-- Amati perubahan pola flash LED karena kontensi sumber daya.
-- Catat perbedaan perilaku dibandingkan dengan *Exercise 7.1*.
-### **Demonstrasi 7.2**:
-![Exercise7 2](https://github.com/user-attachments/assets/2e8861c0-09d5-431b-84b3-6491447a99c0)
-
-
-### **Exercise 7.3**: Pengujian dengan Kontrol Akses  
-- Ulangi *Exercise 7.2* dengan menambahkan mekanisme kontrol akses menggunakan `taskENTER_CRITICAL()` dan `taskEXIT_CRITICAL()`.
-- Bandingkan hasil dengan *Exercise 7.2* untuk melihat pengaruh kontrol akses pada kinerja sistem.
-### **Demonstrasi 7**:
+### **Hasil Percobaan 7**:
 
 https://github.com/user-attachments/assets/b4fa3fcc-8cc0-4ed1-8af4-521c73267773
 
