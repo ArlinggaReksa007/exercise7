@@ -65,13 +65,17 @@ Latihan ini terdiri dari tiga tugas yang masing-masing bertanggung jawab untuk m
 ### **Exercise 7.3**: Pengujian dengan Kontrol Akses  
 - Ulangi *Exercise 7.2* dengan menambahkan mekanisme kontrol akses menggunakan `taskENTER_CRITICAL()` dan `taskEXIT_CRITICAL()`.
 - Bandingkan hasil dengan *Exercise 7.2* untuk melihat pengaruh kontrol akses pada kinerja sistem.
-### **Demonstrasi 7.3**:
-![Exercise7 3](https://github.com/user-attachments/assets/6ee8ca01-7315-4596-b234-48d013efb9fb)
+### **Demonstrasi 7**:
 
+https://github.com/user-attachments/assets/b4fa3fcc-8cc0-4ed1-8af4-521c73267773
 
 ---
 
 ## **Pelajaran yang Didapat**
+
+
+
+
 1. **Kontensi Sumber Daya**:
    - Membagi sumber daya bersama tanpa kontrol dapat menyebabkan ketidakpastian waktu eksekusi.
    - Kontensi dapat mengurangi responsivitas sistem atau bahkan menyebabkan kegagalan sistem.
